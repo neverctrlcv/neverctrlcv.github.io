@@ -1,0 +1,49 @@
+{
+  "links": [
+    {
+      "icon-url": "/home-page/bilibili.png",
+      "web-name": "Bilibili",
+      "web-link": "https://www.bilibili.com/"
+    },
+    {
+      "icon-url": "/home-page/github.png",
+      "web-name": "Github",
+      "web-link": "https://github.com/"
+    },
+    {
+      "icon-url": "/home-page/csdn.png",
+      "web-name": "CSDN",
+      "web-link": "https://www.csdn.net/"
+    },
+    {
+      "icon-url": "/home-page/youtube.png",
+      "web-name": "YouTube",
+      "web-link": "https://www.youtube.com/"
+    },
+    {
+      "icon-url": "/home-page/yuruyun.png",
+      "web-name": "Yuruyun",
+      "web-link": "https://www.yuruyun.com/"
+    },
+    {
+      "icon-url": "/home-page/chatgpt.png",
+      "web-name": "ChatGPT",
+      "web-link": "https://chat.openai.com/"
+    },
+    {
+      "icon-url": "/home-page/music-unlock.png",
+      "web-name": "music-unlock",
+      "web-link": "https://tool.liumingye.cn/unlock-music/"
+    },
+    {
+      "icon-url": "/home-page/tinypng.png",
+      "web-name": "TinyPNG",
+      "web-link": "https://tinify.cn/"
+    },
+    {
+      "icon-url": "/home-page/stack-overflow.png",
+      "web-name": "Stack Overflow",
+      "web-link": "https://stackoverflow.com/"
+    }
+  ]
+}

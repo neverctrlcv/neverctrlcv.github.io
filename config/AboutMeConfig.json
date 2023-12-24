@@ -1,0 +1,11 @@
+{
+  "photo": "/about-me/me.jpg",
+  "sex": "男",
+  "email": "neverdebug@163.com",
+  "pet-phrase": "不要假装努力，结果不会陪你演戏！",
+  "tag": ["宅男","乐观","极客精神","团队合作","自我学习","精准思考","爱玩游戏","追求极致","抗压能力强","不想长大"],
+  "techs": ["HTML","CSS","JavaScript","JAVA","TypeScript","Vue","React","Spring","SpringBoot","MyBatis","MySQL","VueX","Redux","Pinia","Axios","Element-Plus","Ant Design","Unity"],
+  "edu": ["重庆理工大学","计算机科学与技术","2019年9月 - 2023年6月"],
+  "course": "所学课程：Internet程序设计、数据结构、计算机网络、操作系统、计算机组成原理、编译原理、数据库原理及应用、C语言程序设计、面向对象程序设计；",
+  "school-exp": "2020年3月加入学院的理工VR实验室。在实验室期间主要学习游戏开发与游戏策划，使用的游戏引擎为Unity。在导师的领导和实验室成员的合作下，参加过2020年和2021年中国大学生计算机设计大赛，分别获得全国二等奖和重庆三等奖。（其他奖项忽略不说了）"
+}
