@@ -1,3 +1,11 @@
 {
-  "base-url": "/novel/"
+  "base-url": "/novel/",
+  "blog-list": [
+    {
+      "id": 1,
+      "title": "",
+      "datetime": "2023-12-25 12:50",
+      "isShow": true
+    }
+  ]
 }
