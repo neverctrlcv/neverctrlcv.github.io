@@ -211,6 +211,21 @@
       "id": 42,
       "name": "如果爱下去-张靓颖",
       "type": "华语乐坛"
+    },
+    {
+      "id": 43,
+      "name": "Poker Face-Lady Gaga",
+      "type": "英文歌曲"
+    },
+    {
+      "id": 44,
+      "name": "Live It Up-Nicky Jam/Will Smith/Era Istrefi",
+      "type": "世界杯主题曲"
+    },
+    {
+      "id": 45,
+      "name": "The Runner-Yubik",
+      "type": "纯音乐"
     }
   ]
 }
